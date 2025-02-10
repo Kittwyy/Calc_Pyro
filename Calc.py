@@ -28,7 +28,7 @@ def key_press(event):
         clear()
 
 root = tk.Tk()
-root.title("Taschenrechner")
+root.title("Calculator")
 
 entry = tk.Entry(root, width=20, font=("Arial", 16), justify="right")
 entry.grid(row=0, column=0, columnspan=4, padx=10, pady=10)
