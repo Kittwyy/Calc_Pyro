@@ -5,7 +5,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 ## Features
 
 *   Basic arithmetic operations (+, -, \*, /)
-*   Square root calculation
+*   Square root calculation > Maybe some day
 *   Clear entry functionality
 *   Error handling for invalid input
 *   Keyboard input for digits and operators > Not Working yet, working on it (maybe)
