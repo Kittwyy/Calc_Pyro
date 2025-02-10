@@ -41,4 +41,4 @@ The code uses the `tkinter` and `ttk` (themed Tkinter) libraries for the graphic
 
 ## Disclaimer
 
-The use of `eval()` can be risky if you're accepting arbitrary input from users, as it can potentially execute malicious code.  For a more robust and secure calculator, consider using a safer parsing method for mathematical expressions.  This example is for educational purposes and demonstrates basic Tkinter functionality.  The error message is also intentionally humorous and not intended for production environments.
+The use of `eval()` can be risky if you're accepting arbitrary input from users, as it can potentially execute malicious code.  For a more robust and secure calculator, consider using a safer parsing method for mathematical expressions.  This example is for educational purposes and demonstrates basic Tkinter functionality.  This is not intended for production environments.
